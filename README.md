@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# react-classroom-roster
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este repositorio contiene el proyecto react-classroom-roster, desarrollado como parte de mi examen práctico para el curso de Diseño de Aplicaciones en la universidad. La aplicación, construida en React, es muy simple y permite ingresar información que luego se muestra en una tabla. Esta herramienta es ideal para gestionar listas de estudiantes o cualquier otro tipo de datos tabulados de manera sencilla y eficiente.
 
 ## Available Scripts
 
