@@ -1,6 +1,6 @@
 # react-classroom-roster
 
-Este repositorio contiene el proyecto react-classroom-roster, desarrollado como parte de mi examen práctico para el curso de Diseño de Aplicaciones en la universidad. La aplicación, construida en React, es muy simple y permite ingresar información que luego se muestra en una tabla. Esta herramienta es ideal para gestionar listas de estudiantes o cualquier otro tipo de datos tabulados de manera sencilla y eficiente.
+This repository contains the react-classroom-roster project, developed as part of my practical exam for the Application Design course at university. The application, built in React, is very simple and allows you to enter information that is then displayed in a table. This tool is ideal for managing lists of students or any other type of tabular data in a simple and efficient way.
 
 ## Available Scripts
 
